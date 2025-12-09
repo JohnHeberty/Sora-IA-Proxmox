@@ -2,3 +2,4 @@
 
 - Project Reference: https://github.com/hpcaitech/Open-Sora.git
 - Used version v1.1, but, this results is not good.
+- - See results in /output
